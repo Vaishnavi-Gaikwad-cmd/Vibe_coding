@@ -45,7 +45,8 @@ Campus Connect is a modern web portal designed to centralize all student activit
 
 ## ⚡ Setup Instructions
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/campus-connect.git
-cd campus-connect
+### Installation
+1. Clone or download the project files
+2. Open `index.html` in your web browser
+3. Enjoy the Campus Connect experience!
+
